@@ -34,7 +34,7 @@ Quick Reply (PM): Respond to a prospect instantly, directly from the interface. 
 Delete Chat: Completely delete the conversation from both sides to keep your account "clean."
 
 💻 Technical Specifications & Delivery
-Format: Executable file (.exe) for Windows 10.
+Format: Executable file (.exe) for Windows 10 and 11.
 
 ⚠️ Disclaimer
 This software is an automation tool created for educational purposes and for managing your own groups/communities. The buyer is solely responsible for how they use this tool. We do not encourage sending unsolicited spam. Aggressive usage or failure to comply with Telegram’s Terms and Conditions may result in account restrictions or suspension. We recommend using proxies/VPNs and testing account limits with caution.
